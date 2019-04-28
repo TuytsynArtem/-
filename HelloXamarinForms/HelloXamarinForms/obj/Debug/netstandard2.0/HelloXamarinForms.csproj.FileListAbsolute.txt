@@ -1,0 +1,12 @@
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\bin\Debug\netstandard2.0\HelloXamarinForms.deps.json
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\bin\Debug\netstandard2.0\HelloXamarinForms.dll
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\bin\Debug\netstandard2.0\HelloXamarinForms.pdb
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.csprojAssemblyReference.cache
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.AssemblyInfoInputs.cache
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.AssemblyInfo.cs
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.dll
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\HelloXamarinForms.pdb
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\Views\MushroomPage.xaml.g.cs
+C:\Users\epiclol2311\source\repos\HelloXamarinForms\HelloXamarinForms\HelloXamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
